@@ -5,8 +5,10 @@
   "main": "gulpfile.js",
   "author": "Bharat",
   "scripts": {
-    "start": "gulp"
-  },
+    "start": "gulp",
+    "build": "gulp"
+  }
+  ,
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "gulp": "^4.0.0",
